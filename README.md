@@ -10,7 +10,5 @@ Para el desarrollo de este proyecto se utilizó:
 
 • Python 
 
-• Django
-
-• HTML
+• Tkinter
 
